@@ -1,0 +1,109 @@
+
+
+
+  .menu{
+   
+    flex-direction: column;
+    padding: 10px;
+    
+ }
+
+ 
+ .menu a{
+   
+    background-color: antiquewhite;
+    margin: 10px 0;
+    text-align: center;
+    border-radius: 15px;
+    font-size: 20px;
+    padding: 10px;
+    
+ } 
+
+ .skill1 div{
+   
+     float: left;
+     width: 100%;
+     height: 300px;
+   
+}
+
+.service div{
+   
+   float: left;
+   width: 100%;
+   padding: 10px;
+   height: 600px;
+ 
+}
+
+.service div h2{
+   
+   padding-top: 10px;
+   padding-bottom: 10px;
+ 
+}
+
+.ls .lsh{
+  
+   height: 30%;
+   
+   text-align: center;
+   color: cornflowerblue;
+   padding-top: 15px;
+
+}
+
+.workE{
+
+   height: 1600px;
+}
+
+
+
+.About{
+
+   flex-direction: column;
+
+   height: 400px;
+}
+
+.about{
+
+   flex-direction: column;
+}
+
+.Aboutp{
+    
+   width: 45%;
+   height: 70%;
+   border: 2px solid rgb(255, 255, 252);
+   float: right;
+   padding-left: 15px;
+   
+
+ }
+
+
+
+ .About h2{
+   
+   font-size: 15px;
+
+ }
+
+
+ 
+ .Contact .i3{
+
+   width: 87%;
+   height: 300px;
+   margin-left: 15px;
+
+ }
+
+ .Contact .i4{
+   
+   width: 30%;
+
+ }
